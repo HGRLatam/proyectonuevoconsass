@@ -1,0 +1,7 @@
+@use "../utilities/variables" as v;
+
+body {
+	background-color: v.$color;
+	font-size: 5rem;
+	text-align: center;
+}
