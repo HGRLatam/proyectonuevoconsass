@@ -1,0 +1,10 @@
+@use "base/variable" as v;
+
+body {
+	background-color: v.$color;
+}
+
+p {
+	color: v.$color;
+	font-size: 2rem;
+}
