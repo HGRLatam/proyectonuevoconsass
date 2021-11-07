@@ -1,7 +1,11 @@
-@use "../utilities/variables" as v;
+@use "utilities/variables" as v;
 
 body {
 	background-color: v.$color;
-	font-size: 5rem;
+	font-size: 2rem;
 	text-align: center;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
 }

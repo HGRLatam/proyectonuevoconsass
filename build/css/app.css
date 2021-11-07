@@ -339,8 +339,10 @@ template {
 
 body {
   background-color: #6d7f8f;
-  font-size: 5rem;
+  font-size: 2rem;
   text-align: center;
 }
 
-/*# sourceMappingURL=app.css.map */
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
