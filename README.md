@@ -1,2 +1,2 @@
 # proyectonuevoconsass
-practicando sass + html + gulp + npm + nodejs + javascript+ css  y possiblemente pug
+practicando sass + html + gulp + npm + javascript + css 

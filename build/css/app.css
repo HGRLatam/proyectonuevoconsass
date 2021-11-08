@@ -337,6 +337,25 @@ template {
   display: none;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.navbar a {
+  padding: 0.5rem;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: black;
+  padding: 0.5rem;
+  border-bottom: 0.1rem solid white;
+}
+
 body {
   background-color: #6d7f8f;
   font-size: 2rem;
